@@ -24,7 +24,7 @@ First, you need to create an EKS cluster on AWS and an EFS file system. Access t
 
 1. Clone the repository:
     ```
-    git clone https://github.com/JuanM0412/Distributed_File_System.git
+    git clone https://github.com/JuanM0412/Drupal-Deployment.git
     ```
 
 2. Access the directory created as a result of the previous step:
